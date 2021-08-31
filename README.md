@@ -7,3 +7,5 @@ R: Runs DESeq2 on TCGA RNA counts to calculate level of under/over expression of
    Create .csv file for GSEA to identify under/over expressed ESR1 pathways
    
 Python: Uses data from CPTAC to create boxplot/scatterplot of ESR1 protein expression counts
+
+* Specify pathways in both files before running *
