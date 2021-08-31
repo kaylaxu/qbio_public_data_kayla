@@ -1,9 +1,9 @@
-# QBIO BRCA Data Analysis Code
+# QBIO BRCA ESR1 Data Analysis Code
 
 R and Python code written for the Spring 2021 Quantitative Biology Data Analysis Student Group. 
 
-R: Runs DESeq2 on TCGA RNA counts to identify significantly under and over expressed genes
-   Creates boxplots and scatterplots of gene expression counts
-   Create .csv file for GSEA 
+R: Runs DESeq2 on TCGA RNA counts to calculate level of under/over expression of ESR1
+   Creates boxplots and scatterplots of ESR1 gene expression counts
+   Create .csv file for GSEA to identify under/over expressed ESR1 pathways
    
-Python: Uses data from CPTAC
+Python: Uses data from CPTAC to create boxplot/scatterplot of ESR1 protein expression counts
